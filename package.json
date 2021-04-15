@@ -1,0 +1,32 @@
+{
+  "name": "newsprism",
+  "version": "1.0.0",
+  "description": "Desarrollado en el curso de Udemy End_to_End_React_with_Prisma_2  https://www.udemy.com/course/end-to-end-react-with-prisma-2/",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build":"next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByronPiedrahita/newsprism.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ByronPiedrahita/newsprism/issues"
+  },
+  "homepage": "https://github.com/ByronPiedrahita/newsprism#readme",
+  "dependencies": {
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.40",
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.4"
+  }
+}
